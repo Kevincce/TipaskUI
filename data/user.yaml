@@ -1,0 +1,16 @@
+-
+  url: http://tipask/public/admin/user
+  username: test101
+  email: test101@163.com
+  password: 123456
+-
+  url: http://tipask/public/admin/user
+  username: test102
+  email: test102@163.com
+  password: 123456
+
+-
+  url: http://tipask/public/admin/user
+  username: test103
+  email: test103@163.com
+  password: 123456
